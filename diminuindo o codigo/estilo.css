@@ -1,0 +1,58 @@
+table tr td{
+	border: 1px solid black;/*borda da tabela*/
+}
+
+table{
+	width: 80%; /*largura da tabela*/
+	margin: auto; /*alinhamento centralizado da tabela*/
+}
+
+button{
+	color: #34e8eb; /*cor da fonte*/
+	background-color: #33166b; /*cor de fundo do botão*/
+	font size: 35px; /*tamanho da fonte*/
+	border-radius: 20px; /*arredonda os cantos*/
+	margin-top: 35px; /*margem do topo*/	
+	margin-bottom: 35px; /*margem inferior*/
+	margin-left: 20px; /*margem a direita*/
+	margin-right: 50px; /*margem a direita*/
+
+	/*margin: 50px 50px 20px 50px;*/
+
+	padding-top: 10px; /*margem interna topo*/
+	padding-bottom: 10px; /*margem interna inferior*/
+	padding-left: 10px; /*margem interna esquerda*/
+	padding-right: 10px; /*margem interna direita*/ 
+}
+
+h1{
+	color: #3275a8;
+	font-size: 50px;
+	font-family:'Old English Text MT';
+}
+
+p{
+   color: #3275a8;
+   font-size: 30px;
+   font-family: "Charm", cursive;
+   text-align: justify;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
