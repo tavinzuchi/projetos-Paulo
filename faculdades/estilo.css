@@ -1,0 +1,12 @@
+table tr td{
+	border: 1px solid black;/*borda da tabela*/
+}
+
+table{
+	width: 80%; /*largura da tabela*/
+	margin: auto; /*alinhamento centralizado da tabela*/
+}
+
+.matérias tr td{
+	border: 1px solid black;
+}
